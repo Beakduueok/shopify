@@ -1,0 +1,14 @@
+telethon
+pyrogram
+python-telegram-bot
+requests
+aiohttp
+aiofiles
+python-dotenv
+pillow
+sqlalchemy
+pymysql
+beautifulsoup4
+lxml
+requests_toolbelt
+fake-useragent==1.0.0
